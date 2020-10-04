@@ -85,3 +85,40 @@ Complete the following tasks:
 
 
 *  Create a scatter plot using hvplot.scatter to present the clustered data about cryptocurrencies having x="TotalCoinsMined" and y="TotalCoinSupply" to contrast the number of available coins versus the total number of mined coins. Use the hover_cols=["CoinName"] parameter to include the cryptocurrency name on each data point.
+
+
+
+
+## Challenge_Summary:
+
+
+
+##### (1)Data Preprocessing:
+
+
+![Screenshot (124)](https://user-images.githubusercontent.com/65969608/95006920-29a54c00-05cf-11eb-86a5-9779576d8715.png)
+
+
+
+##### (2)Reducing Data Dimensions Using PCA:
+
+![Screenshot (125)](https://user-images.githubusercontent.com/65969608/95006927-4e99bf00-05cf-11eb-8b3d-6168011b81fd.png)
+
+##### (3)Clustering Cryptocurrencies Using K-means:
+
+
+![Screenshot (126)](https://user-images.githubusercontent.com/65969608/95006946-77ba4f80-05cf-11eb-8ee5-d9ec8bccabb0.png)
+
+
+##### (4)Visualizing Results:
+
+![Screenshot (127)](https://user-images.githubusercontent.com/65969608/95006958-9fa9b300-05cf-11eb-9a16-bbdc326b86fe.png)
+
+
+
+![Screenshot (128)](https://user-images.githubusercontent.com/65969608/95006974-c667e980-05cf-11eb-8552-ad67a98fb5f0.png)
+
+
+
+
+
