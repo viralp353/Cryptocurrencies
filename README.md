@@ -91,6 +91,8 @@ Complete the following tasks:
 
 ## Challenge_Summary:
 
+For challenge_Summary find Challenge Folder.
+
 
 
 ##### (1)Data Preprocessing:
